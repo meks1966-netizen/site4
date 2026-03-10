@@ -56,4 +56,19 @@ blockquote {
 	background-image: url(images/background.gif);
 	background-repeat: no-repeat;
 	background-position: top left;
+}		
+#block1 {
+	background-image: url(images/fon1.jpeg);
+}
+#block2 {
+	background-image: url(images/fon2.jpeg);
+}
+#block3 {
+	background-image: url(images/fon3.jpeg);
+}
+#block4 {
+	background-image: url(images/fon4.jpeg);
+}
+#block5 {
+	background-image: url(images/fon3.jpeg);
 }
